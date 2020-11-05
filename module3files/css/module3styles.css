@@ -30,6 +30,7 @@
   text-align: center;
   margin: 0;
   padding: 0;
+
 }
 
 .navbar-toggle{
@@ -37,7 +38,9 @@
 }
 
 .icon-bar{
-	background-color:pink;
+    background-color:pink;
+    width:100%;
+    margin:0;
 }
 
 
@@ -77,14 +80,14 @@ li{
 }
 
 .content-box{
-	margin: 20px;
+	margin: 15px;
 	width: auto;
 	height: auto;
 	color: black;
 	background-color: burlywood;
     font-family: 'Times New Roman', Times, serif;
     font-size:14pt;
-	padding: 20px;
+	padding: 15px;
 }
 
 .item-name{
